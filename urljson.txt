@@ -1,0 +1,52 @@
+proxy_key=cuJlY8R9h9UUzrO2b6iu
+
+source=https://gist.githubusercontent.com/chriddyp/feaa84b34854e53fb72a/raw/2d82eff656249af8588d139d106d538785233145/example-data.csv
+
+data =
+
+[
+  {
+    "xsrc": "X Data 1",
+    "ysrc": "Y Data 1",
+    "mode": "markers",
+    "marker": {
+      "opacity": 0.7,
+      "line": {
+        "color": "rgb(250, 250, 250)",
+        "width": 0.5
+      }
+    },
+    "name": "Oxygen"
+  },
+  {
+    "xsrc": "X Data 2",
+    "ysrc": "Y Data 2",
+    "mode": "markers",
+    "marker": {
+      "opacity": 0.7,
+      "line": {
+        "color": "rgb(250, 250, 250)",
+        "width": 0.5
+      }
+    },
+    "name": "Calcium"
+  }
+]
+
+// Head of csv
+
+X Data 1,Y Data 1,X Data 2,Y Data 2
+-2.06E-02,-1.53E-02,-2.35E-02,-1.73E-02
+-1.40E-02,-1.01E-02,-1.65E-02,-1.18E-02
+-1.09E-02,-7.71E-03,-1.31E-02,-9.26E-03
+-1.42E-02,-1.05E-02,-1.65E-02,-1.20E-02
+-1.62E-02,-1.23E-02,-1.89E-02,-1.42E-02
+-1.31E-02,-1.01E-02,-1.56E-02,-1.18E-02
+-1.29E-02,-8.75E-03,-1.51E-02,-1.03E-02
+-1.64E-02,-1.19E-02,-1.92E-02,-1.39E-02
+-3.54E-03,-5.62E-03,-9.08E-03,-9.35E-03
+3.71E-03,3.25E-03,1.87E-03,2.01E-03
+-9.75E-03,-1.10E-02,-1.98E-02,-1.78E-02
+8.89E-03,7.55E-03,6.89E-03,6.21E-03
+-1.19E-02,-9.95E-03,-1.42E-02,-1.16E-02
+7.78E-03,5.35E-03,3.07E-03,2.19E-03

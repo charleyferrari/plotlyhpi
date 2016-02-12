@@ -1,0 +1,23 @@
+[
+  {
+    "xsrc": "charleyferrari:41:10APBQIUJ5N2SH2G3XSSBQY947P8QOSC?ZW6DXXK2L4BR3RK0RK3FG93RDSTDV3AS=\"High\"",
+    "ysrc": "charleyferrari:41:W103L8LGZNKCLYIIAOVDRNPPTKA1S3PB?ZW6DXXK2L4BR3RK0RK3FG93RDSTDV3AS=\"High\"",
+    "name": "High",
+    "type": "scatter",
+    "uid": "b858fe"
+  },
+  {
+    "xsrc": "charleyferrari:41:10APBQIUJ5N2SH2G3XSSBQY947P8QOSC?ZW6DXXK2L4BR3RK0RK3FG93RDSTDV3AS=\"Low\"",
+    "ysrc": "charleyferrari:41:W103L8LGZNKCLYIIAOVDRNPPTKA1S3PB?ZW6DXXK2L4BR3RK0RK3FG93RDSTDV3AS=\"Low\"",
+    "name": "Low",
+    "type": "scatter",
+    "uid": "86afdd"
+  },
+  {
+    "xsrc": "charleyferrari:41:10APBQIUJ5N2SH2G3XSSBQY947P8QOSC?ZW6DXXK2L4BR3RK0RK3FG93RDSTDV3AS=\"Middle\"",
+    "ysrc": "charleyferrari:41:W103L8LGZNKCLYIIAOVDRNPPTKA1S3PB?ZW6DXXK2L4BR3RK0RK3FG93RDSTDV3AS=\"Middle\"",
+    "name": "Middle",
+    "type": "scatter",
+    "uid": "5c2ab7"
+  }
+]
