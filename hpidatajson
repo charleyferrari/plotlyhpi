@@ -1,3 +1,69 @@
+
+var data =
+[
+  {
+    "uid": "344293",
+    "ysrc": "charleyferrari:46:ISJFGFM9I9ZKNO59FIOC5AWLSU8VGD50?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"High\"",
+    "xsrc": "charleyferrari:46:263F1BQ9OBVFQS18Z6DFZFVIR7XY9JZ8?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"High\"",
+    "type": "scatter",
+    "name": "High"
+  },
+  {
+    "uid": "bd3795",
+    "ysrc": "charleyferrari:46:ISJFGFM9I9ZKNO59FIOC5AWLSU8VGD50?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"Middle\"",
+    "xsrc": "charleyferrari:46:263F1BQ9OBVFQS18Z6DFZFVIR7XY9JZ8?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"Middle\"",
+    "type": "scatter",
+    "name": "Middle"
+  },
+  {
+    "uid": "a04692",
+    "ysrc": "charleyferrari:46:ISJFGFM9I9ZKNO59FIOC5AWLSU8VGD50?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"Low\"",
+    "xsrc": "charleyferrari:46:263F1BQ9OBVFQS18Z6DFZFVIR7XY9JZ8?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"Low\"",
+    "type": "scatter",
+    "name": "Low"
+  }
+]
+
+var layout =
+
+{
+  "autosize": true,
+  "barmode": "group",
+  "yaxis": {
+    "range": [
+      50.83,
+      227.83
+    ],
+    "type": "linear",
+    "autorange": true,
+    "title": "HPI: 2000 = 100"
+  },
+  "height": 590,
+  "width": 1044,
+  "xaxis": {
+    "range": [
+      725864400000,
+      1446350400000
+    ],
+    "type": "date",
+    "autorange": true
+  },
+  "title": "Housing Price Index by Tier: Boston",
+  "annotations": [
+    {
+      "xref": "x",
+      "text": "Low Tier = High Volatility",
+      "ay": -56,
+      "ax": 25,
+      "y": 176.88853658537,
+      "x": 1276600173208
+    }
+  ]
+}
+
+///////////////////////////////////////////////////////
+
+var data =
 [
   {
     "xsrc": "charleyferrari:41:10APBQIUJ5N2SH2G3XSSBQY947P8QOSC?ZW6DXXK2L4BR3RK0RK3FG93RDSTDV3AS=\"High\"",
@@ -21,3 +87,38 @@
     "uid": "5c2ab7"
   }
 ]
+
+var layout =
+
+{
+  "yaxis": {
+    "type": "linear",
+    "range": [
+      50.83,
+      227.83
+    ],
+    "autorange": true
+  },
+  "xaxis": {
+    "type": "date",
+    "range": [
+      725864400000,
+      1446350400000
+    ],
+    "autorange": true
+  },
+  "barmode": "group",
+  "height": 590,
+  "width": 1044,
+  "autosize": true,
+  "title": "Boston - Home Price Index by Tier",
+  "annotations": [
+    {
+      "text": "Low Tier = High Volatility",
+      "ax": 29,
+      "ay": -62,
+      "x": 1279986711398.4,
+      "y": 175.58876010782
+    }
+  ]
+}

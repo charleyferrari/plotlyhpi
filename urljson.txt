@@ -50,3 +50,89 @@ X Data 1,Y Data 1,X Data 2,Y Data 2
 8.89E-03,7.55E-03,6.89E-03,6.21E-03
 -1.19E-02,-9.95E-03,-1.42E-02,-1.16E-02
 7.78E-03,5.35E-03,3.07E-03,2.19E-03
+
+////////////////////////////////////
+
+proxy_key=cuJlY8R9h9UUzrO2b6iu
+
+source=https://docs.google.com/spreadsheets/d/1p_rrXLVwJ5Gl-sEtpkbBuN4kDd79HC1VOFv3JWMxoro/export?format=csv
+
+
+var data =
+[
+  {
+    "uid": "344293",
+    "ysrc": "charleyferrari:46:ISJFGFM9I9ZKNO59FIOC5AWLSU8VGD50?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"High\"",
+    "xsrc": "charleyferrari:46:263F1BQ9OBVFQS18Z6DFZFVIR7XY9JZ8?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"High\"",
+    "type": "scatter",
+    "name": "High"
+  },
+  {
+    "uid": "bd3795",
+    "ysrc": "charleyferrari:46:ISJFGFM9I9ZKNO59FIOC5AWLSU8VGD50?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"Middle\"",
+    "xsrc": "charleyferrari:46:263F1BQ9OBVFQS18Z6DFZFVIR7XY9JZ8?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"Middle\"",
+    "type": "scatter",
+    "name": "Middle"
+  },
+  {
+    "uid": "a04692",
+    "ysrc": "charleyferrari:46:ISJFGFM9I9ZKNO59FIOC5AWLSU8VGD50?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"Low\"",
+    "xsrc": "charleyferrari:46:263F1BQ9OBVFQS18Z6DFZFVIR7XY9JZ8?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"Low\"",
+    "type": "scatter",
+    "name": "Low"
+  }
+]
+
+var layout =
+
+{
+  "autosize": true,
+  "barmode": "group",
+  "yaxis": {
+    "range": [
+      50.83,
+      227.83
+    ],
+    "type": "linear",
+    "autorange": true,
+    "title": "HPI: 2000 = 100"
+  },
+  "height": 590,
+  "width": 1044,
+  "xaxis": {
+    "range": [
+      725864400000,
+      1446350400000
+    ],
+    "type": "date",
+    "autorange": true
+  },
+  "title": "Housing Price Index by Tier: Boston",
+  "annotations": [
+    {
+      "xref": "x",
+      "text": "Low Tier = High Volatility",
+      "ay": -56,
+      "ax": 25,
+      "y": 176.88853658537,
+      "x": 1276600173208
+    }
+  ]
+}
+
+//////////////////////////////////////
+
+https://plot.ly/proxy/plot/?proxy_key=cuJlY8R9h9UUzrO2b6iu?source=https://docs.google.com/spreadsheets/d/1p_rrXLVwJ5Gl-sEtpkbBuN4kDd79HC1VOFv3JWMxoro/export?format=csv?var data =[{"uid":"344293","ysrc":"charleyferrari:46:ISJFGFM9I9ZKNO59FIOC5AWLSU8VGD50?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"High\"","xsrc": "charleyferrari:46:263F1BQ9OBVFQS18Z6DFZFVIR7XY9JZ8?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"High\"","type": "scatter","name": "High"},{"uid": "bd3795","ysrc":"charleyferrari:46:ISJFGFM9I9ZKNO59FIOC5AWLSU8VGD50?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"Middle\"","xsrc": "charleyferrari:46:263F1BQ9OBVFQS18Z6DFZFVIR7XY9JZ8?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"Middle\"","type": "scatter","name": "Middle"},{"uid": "a04692","ysrc": "charleyferrari:46:ISJFGFM9I9ZKNO59FIOC5AWLSU8VGD50?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"Low\"","xsrc": "charleyferrari:46:263F1BQ9OBVFQS18Z6DFZFVIR7XY9JZ8?W6GV8PBU72B9NN7OT73HUSO6XJP5LLW6=\"Low\"","type": "scatter","name": "Low"}]?var layout={"autosize": true,"barmode": "group","yaxis": {"range": [50.83,227.83],"type": "linear","autorange": true,"title": "HPI: 2000 = 100"},"height": 590,"width": 1044,"xaxis": {"range": [725864400000,1446350400000],"type": "date","autorange": true},"title": "Housing Price Index by Tier: Boston","annotations": [{"xref": "x","text": "Low Tier = High Volatility","ay": -56,"ax": 25,"y": 176.88853658537,"x": 1276600173208}]}
+
+
+////////////////
+
+https://plot.ly/proxy/plot/?proxy_key=cuJlY8R9h9UUzrO2b6iu&source=https%3A%2F%2Fdocs.google.com%2Fa%2Fplot.ly%2Fspreadsheets%2Fd%2F14aROwymJ_OFFvkdK9EzCVtGEu_9mSHyAt8z-gAcT6HE%2Fexport%3Fformat%3Dcsv&data=%5B%7B%22xsrc%22%3A%22X%20Data%201%22%2C%22ysrc%22%3A%22Y%20Data%201%22%2C%22mode%22%3A%22markers%22%2C%22marker%22%3A%7B%22opacity%22%3A0.7%2C%22line%22%3A%7B%22color%22%3A%22rgb(250%2C%20250%2C%20250)%22%2C%22width%22%3A0.5%7D%7D%2C%22name%22%3A%22Oxygen%22%7D%2C%7B%22xsrc%22%3A%22X%20Data%202%22%2C%22ysrc%22%3A%22Y%20Data%202%22%2C%22mode%22%3A%22markers%22%2C%22marker%22%3A%7B%22opacity%22%3A0.7%2C%22line%22%3A%7B%22color%22%3A%22rgb(250%2C%20250%2C%20250)%22%2C%22width%22%3A0.5%7D%7D%2C%22name%22%3A%22Calcium%22%7D%5D&layout=%7B%22title%22%3A%22Import%20directly%20from%20Google%20Drive%22%7D
+
+https://docs.google.com/spreadsheets/d/13U8ERsrbOhXCuOQ1olzpMeiaNWbqE5OgWWQzO3-E9dg/export?format=csv
+
+
+
+https://plot.ly/proxy-plot/?proxy_key=cuJlY8R9h9UUzrO2b6iu&source=https://docs.google.com/spreadsheets/d/13U8ERsrbOhXCuOQ1olzpMeiaNWbqE5OgWWQzO3-E9dg/export?format=csv&data=[{"xsrc": "X Data 1", "ysrc": "Y Data 1"}]&layout={"title": "Example graph"}&proxy_key=cuJlY8R9h9UUzrO2b6iu
+
+https://plot.ly/proxy/plot/?proxy_key=cuJlY8R9h9UUzrO2b6iu&source=https%3A%2F%2Fgist.githubusercontent.com%2Fchriddyp%2Ffeaa84b34854e53fb72a%2Fraw%2F2d82eff656249af8588d139d106d538785233145%2Fexample-data.csv&data=%5B%7B%22xsrc%22%3A%22X%20Data%201%22%2C%22ysrc%22%3A%22Y%20Data%201%22%2C%22mode%22%3A%22markers%22%2C%22marker%22%3A%7B%22opacity%22%3A0.7%2C%22line%22%3A%7B%22color%22%3A%22rgb(250%2C%20250%2C%20250)%22%2C%22width%22%3A0.5%7D%7D%2C%22name%22%3A%22Oxygen%22%7D%2C%7B%22xsrc%22%3A%22X%20Data%202%22%2C%22ysrc%22%3A%22Y%20Data%202%22%2C%22mode%22%3A%22markers%22%2C%22marker%22%3A%7B%22opacity%22%3A0.7%2C%22line%22%3A%7B%22color%22%3A%22rgb(250%2C%20250%2C%20250)%22%2C%22width%22%3A0.5%7D%7D%2C%22name%22%3A%22Calcium%22%7D%5D&layout=%7B%22title%22%3A%22Import%20directly%20from%20Github%20Gist%22%7D
