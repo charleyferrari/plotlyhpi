@@ -127,12 +127,17 @@ https://plot.ly/proxy/plot/?proxy_key=cuJlY8R9h9UUzrO2b6iu?source=https://docs.g
 
 ////////////////
 
-https://plot.ly/proxy/plot/?proxy_key=cuJlY8R9h9UUzrO2b6iu&source=https%3A%2F%2Fdocs.google.com%2Fa%2Fplot.ly%2Fspreadsheets%2Fd%2F14aROwymJ_OFFvkdK9EzCVtGEu_9mSHyAt8z-gAcT6HE%2Fexport%3Fformat%3Dcsv&data=%5B%7B%22xsrc%22%3A%22X%20Data%201%22%2C%22ysrc%22%3A%22Y%20Data%201%22%2C%22mode%22%3A%22markers%22%2C%22marker%22%3A%7B%22opacity%22%3A0.7%2C%22line%22%3A%7B%22color%22%3A%22rgb(250%2C%20250%2C%20250)%22%2C%22width%22%3A0.5%7D%7D%2C%22name%22%3A%22Oxygen%22%7D%2C%7B%22xsrc%22%3A%22X%20Data%202%22%2C%22ysrc%22%3A%22Y%20Data%202%22%2C%22mode%22%3A%22markers%22%2C%22marker%22%3A%7B%22opacity%22%3A0.7%2C%22line%22%3A%7B%22color%22%3A%22rgb(250%2C%20250%2C%20250)%22%2C%22width%22%3A0.5%7D%7D%2C%22name%22%3A%22Calcium%22%7D%5D&layout=%7B%22title%22%3A%22Import%20directly%20from%20Google%20Drive%22%7D
+https://plot.ly/proxy/plot/?proxy_key=cuJlY8R9h9UUzrO2b6iu&source=https%3A%2F%2Fdocs.google.com%2Fd%2Fspreadsheets%2Fd%2F13U8ERsrbOhXCuOQ1olzpMeiaNWbqE5OgWWQzO3-E9dg%2Fexport%3Fformat%3Dcsv&data=%5B%7B%22xsrc%22%3A%22X%20Data%201%22%2C%22ysrc%22%3A%22Y%20Data%201%22%2C%22mode%22%3A%22markers%22%2C%22marker%22%3A%7B%22opacity%22%3A0.7%2C%22line%22%3A%7B%22color%22%3A%22rgb(250%2C%20250%2C%20250)%22%2C%22width%22%3A0.5%7D%7D%2C%22name%22%3A%22Oxygen%22%7D%2C%7B%22xsrc%22%3A%22X%20Data%202%22%2C%22ysrc%22%3A%22Y%20Data%202%22%2C%22mode%22%3A%22markers%22%2C%22marker%22%3A%7B%22opacity%22%3A0.7%2C%22line%22%3A%7B%22color%22%3A%22rgb(250%2C%20250%2C%20250)%22%2C%22width%22%3A0.5%7D%7D%2C%22name%22%3A%22Calcium%22%7D%5D&layout=%7B%22title%22%3A%22Import%20directly%20from%20Google%20Drive%22%7D
 
-https://docs.google.com/spreadsheets/d/13U8ERsrbOhXCuOQ1olzpMeiaNWbqE5OgWWQzO3-E9dg/export?format=csv
+https://docs.google.com/spreadsheets/d/13U8ERsrbOhXCuOQ1olzpMeiaNWbqE5OgWWQzO3-E9dg/edit?usp=sharing
 
 
 
-https://plot.ly/proxy-plot/?proxy_key=cuJlY8R9h9UUzrO2b6iu&source=https://docs.google.com/spreadsheets/d/13U8ERsrbOhXCuOQ1olzpMeiaNWbqE5OgWWQzO3-E9dg/export?format=csv&data=[{"xsrc": "X Data 1", "ysrc": "Y Data 1"}]&layout={"title": "Example graph"}&proxy_key=cuJlY8R9h9UUzrO2b6iu
 
-https://plot.ly/proxy/plot/?proxy_key=cuJlY8R9h9UUzrO2b6iu&source=https%3A%2F%2Fgist.githubusercontent.com%2Fchriddyp%2Ffeaa84b34854e53fb72a%2Fraw%2F2d82eff656249af8588d139d106d538785233145%2Fexample-data.csv&data=%5B%7B%22xsrc%22%3A%22X%20Data%201%22%2C%22ysrc%22%3A%22Y%20Data%201%22%2C%22mode%22%3A%22markers%22%2C%22marker%22%3A%7B%22opacity%22%3A0.7%2C%22line%22%3A%7B%22color%22%3A%22rgb(250%2C%20250%2C%20250)%22%2C%22width%22%3A0.5%7D%7D%2C%22name%22%3A%22Oxygen%22%7D%2C%7B%22xsrc%22%3A%22X%20Data%202%22%2C%22ysrc%22%3A%22Y%20Data%202%22%2C%22mode%22%3A%22markers%22%2C%22marker%22%3A%7B%22opacity%22%3A0.7%2C%22line%22%3A%7B%22color%22%3A%22rgb(250%2C%20250%2C%20250)%22%2C%22width%22%3A0.5%7D%7D%2C%22name%22%3A%22Calcium%22%7D%5D&layout=%7B%22title%22%3A%22Import%20directly%20from%20Github%20Gist%22%7D
+
+
+
+https://plot.ly/proxy/plot/?proxy_key=cuJlY8R9h9UUzrO2b6iu& &data=%5B%7B%22xsrc%22%3A%22X%20Data%201%22%2C%22ysrc%22%3A%22Y%20Data%201%22%2C%22mode%22%3A%22markers%22%2C%22marker%22%3A%7B%22opacity%22%3A0.7%2C%22line%22%3A%7B%22color%22%3A%22rgb(250%2C%20250%2C%20250)%22%2C%22width%22%3A0.5%7D%7D%2C%22name%22%3A%22Oxygen%22%7D%2C%7B%22xsrc%22%3A%22X%20Data%202%22%2C%22ysrc%22%3A%22Y%20Data%202%22%2C%22mode%22%3A%22markers%22%2C%22marker%22%3A%7B%22opacity%22%3A0.7%2C%22line%22%3A%7B%22color%22%3A%22rgb(250%2C%20250%2C%20250)%22%2C%22width%22%3A0.5%7D%7D%2C%22name%22%3A%22Calcium%22%7D%5D&layout=%7B%22title%22%3A%22Import%20directly%20from%20Google%20Drive%22%7D
+
+
+source=https%3A%2F%2Fdocs.google.com%2Fa%2Fplot.ly%2Fspreadsheets%2Fd%2F14aROwymJ_OFFvkdK9EzCVtGEu_9mSHyAt8z-gAcT6HE%2Fexport%3Fformat%3Dcsv

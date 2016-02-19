@@ -1,6 +1,8 @@
-setwd("/Users/Charley/Downloads/Plotly/Plotly Data Link Test")
+setwd("/Users/Charley/Downloads/Plotly/plotlyhpi")
 
 library(plyr)
+
+library(reshape2)
 
 library(dplyr)
 
@@ -35,3 +37,7 @@ hpSAbos <- hp %>%
   arrange(Tier, DATE)
 
 write.csv(hpSAbos, "hpsa.csv", row.names = FALSE)
+
+hp$DATE <- strptime(hp$DATE, format="%Y-%m-%d")
+
+write.csv(hp, "hpraw.csv", row.names = FALSE)
